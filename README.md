@@ -1,6 +1,11 @@
 # pmc-100
 Utility to  read/write sequencer data from the Philips PMC 100 and convert to midi
 
+## requirements :
+
+libsndfile for reading/writing audio files  
+cmake
+
 ## usage
 
 * Save your composition to tape on the PMC 100
